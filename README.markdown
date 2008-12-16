@@ -7,6 +7,6 @@ This is a [TextMate](http://macromates.com/) theme based on the excellent [Monok
 Installation
 ------------
 
-To install, simply download the `Charcoal Neon Tetra.tmtheme` file and either double-click it or copy it manually to the `~/Library/Application Support/TextMate/Themes` folder on your Mac. 
+To install, simply [download the zip](http://github.com/spjwebster/charcoal-neon-tetra/zipball/master) and either double-click on the `Charcoal Neon Tetra.tmtheme` file or copy it manually to the `~/Library/Application Support/TextMate/Themes` folder on your Mac. 
 
 Once that's done, restart TextMate and select the new theme on the `Fonts & Colours` tab of the Preferences window.
