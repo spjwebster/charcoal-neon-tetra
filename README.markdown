@@ -9,4 +9,4 @@ Installation
 
 To install, simply [download the zip](http://github.com/spjwebster/charcoal-neon-tetra/zipball/master) and either double-click on the `Charcoal Neon Tetra.tmtheme` file or copy it manually to the `~/Library/Application Support/TextMate/Themes` folder on your Mac. 
 
-Once that's done, restart TextMate and select the new theme on the `Fonts & Colours` tab of the Preferences window.
+Once that's done, restart TextMate and select the new theme on the **Fonts & Colours** tab of the Preferences window.
